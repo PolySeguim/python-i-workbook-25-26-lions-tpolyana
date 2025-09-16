@@ -10,6 +10,7 @@ read any input from the user.  (9 lines)
 
 def whatType(userInput):
     print(type(userInput))
+    print("Python RULES")
     
 
 """
